@@ -4,6 +4,6 @@ Pure Common Lisp anti-aliasing rasterizer
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/fjolliton/cl-vectors.git   |
-| commit  | bb4e750                                           |
+| commit  | f3d3e08                                           |
 | systems | cl-aa cl-aa-misc cl-paths cl-paths-ttf cl-vectors |
 |---------+---------------------------------------------------|
